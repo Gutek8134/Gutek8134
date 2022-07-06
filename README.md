@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gutek8134
 - 👀 I’m mostly interested in video games and anime
 - 🌱 I’m currently learning Unity framework for game development and Blender
-- 💞️ I’m looking to collaborate on nothing... yet
+- 💞️ I’m looking to collaborate on nothing... for now
 - 📫 How to reach me: Discord - Gutek8134#2318
 
 <!---
