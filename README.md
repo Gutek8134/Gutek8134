@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gutek8134
 - 👀 I’m mostly interested in video games and anime
-- 🌱 I’m currently learning Unreal Engine framework for game development
+- 🌱 I’m currently learning Godot 4
 - 💞️ I’m looking to collaborate on nothing... for now
 - 📫 How to reach me: Discord - Gutek8134#2318
 
