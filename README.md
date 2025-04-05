@@ -2,7 +2,7 @@
 - 👀 I’m mostly interested in video games and anime
 - 🌱 I’m currently learning Godot 4
 - 💞️ I’m looking to collaborate on nothing... for now
-- 📫 How to reach me: Discord - Gutek8134#2318
+- 📫 How to reach me: Discord - gutek8134
 
 <!---
 Gutek8134/Gutek8134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
